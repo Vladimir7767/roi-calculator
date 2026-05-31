@@ -15,3 +15,4 @@ https://vladimir7767.github.io/utm-generator-en/
 https://vladimir7767.github.io/password-generator-en/
 https://vladimir7767.github.io/credit-calculator/
 https://vladimir7767.github.io/list-randomizer/
+https://vladimir7767.github.io/percent-calculator/

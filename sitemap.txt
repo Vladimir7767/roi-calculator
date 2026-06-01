@@ -20,3 +20,4 @@ https://vladimir7767.github.io/nickname-generator/
 https://vladimir7767.github.io/discount-calculator/
 https://vladimir7767.github.io/list-randomizer-en/
 https://vladimir7767.github.io/percent-calculator-en/
+https://vladimir7767.github.io/nickname-generator-en/

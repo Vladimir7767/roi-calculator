@@ -32,3 +32,4 @@ https://vladimir7767.github.io/calculadora-roi/
 https://vladimir7767.github.io/calculadora-credito/
 https://vladimir7767.github.io/generador-qr/
 https://vladimir7767.github.io/calculadora-porcentaje/
+https://vladimir7767.github.io/calculadora-descuento/

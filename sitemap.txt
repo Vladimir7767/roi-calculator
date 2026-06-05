@@ -35,3 +35,4 @@ https://vladimir7767.github.io/calculadora-porcentaje/
 https://vladimir7767.github.io/calculadora-descuento/
 https://vladimir7767.github.io/calculadora-calorias/
 https://vladimir7767.github.io/generador-aleatorio/
+https://vladimir7767.github.io/generador-contrasenas/

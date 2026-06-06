@@ -38,3 +38,4 @@ https://vladimir7767.github.io/generador-aleatorio/
 https://vladimir7767.github.io/generador-contrasenas/
 https://vladimir7767.github.io/generador-nombres/
 https://vladimir7767.github.io/organizador-listas/
+https://vladimir7767.github.io/herramientas-texto/

@@ -43,3 +43,4 @@ https://vladimir7767.github.io/analizador-seo/
 https://vladimir7767.github.io/generador-utm/
 https://vladimir7767.github.io/conversor-divisas/
 https://vladimir7767.github.io/calculadora-fechas/
+https://vladimir7767.github.io/calories-calculator-de/

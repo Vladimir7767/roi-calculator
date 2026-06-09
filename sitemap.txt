@@ -52,3 +52,4 @@ https://vladimir7767.github.io/roi-calculator-de/
 https://vladimir7767.github.io/currency-converter-de/
 https://vladimir7767.github.io/random-generator-de/
 https://vladimir7767.github.io/date-calculator-de/
+https://vladimir7767.github.io/credit-calculator-de/

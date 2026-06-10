@@ -58,3 +58,4 @@ https://vladimir7767.github.io/percent-calculator-de/
 https://vladimir7767.github.io/nickname-generator-de/
 https://vladimir7767.github.io/discount-calculator-de/
 https://vladimir7767.github.io/text-tools-de/
+https://vladimir7767.github.io/qr-generator-asia/

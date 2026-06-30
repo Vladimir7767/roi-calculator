@@ -79,3 +79,4 @@ https://vladimir7767.github.io/kalkulyator-idealnogo-vesa/
 https://vladimir7767.github.io/calculadora-peso-ideal/
 https://vladimir7767.github.io/ideal-weight-calculator-en/
 https://vladimir7767.github.io/tip-calculator/
+https://vladimir7767.github.io/tip-calculator-en/

@@ -99,3 +99,4 @@ https://vladimir7767.github.io/calculadora-bmr-tdee/
 https://vladimir7767.github.io/bmr-tdee-calculator-de/
 https://vladimir7767.github.io/bmr-tdee-calculator-asia/
 https://vladimir7767.github.io/compound-interest-calculator/
+https://vladimir7767.github.io/compound-interest-calculator-en/

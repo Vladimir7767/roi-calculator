@@ -104,3 +104,4 @@ https://vladimir7767.github.io/calculadora-interes-compuesto/
 https://vladimir7767.github.io/compound-interest-calculator-de/
 https://vladimir7767.github.io/compound-interest-calculator-asia/
 https://vladimir7767.github.io/schema-generator/
+https://vladimir7767.github.io/schema-generator-en/

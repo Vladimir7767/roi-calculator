@@ -110,3 +110,4 @@ https://vladimir7767.github.io/schema-generator-de/
 https://vladimir7767.github.io/schema-generator-asia/
 https://vladimir7767.github.io/life-expectancy-calculator/
 https://vladimir7767.github.io/life-expectancy-calculator-en/
+https://vladimir7767.github.io/calculadora-esperanza-vida/

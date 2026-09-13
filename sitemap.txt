@@ -113,3 +113,4 @@ https://vladimir7767.github.io/life-expectancy-calculator-en/
 https://vladimir7767.github.io/calculadora-esperanza-vida/
 https://vladimir7767.github.io/life-expectancy-calculator-de/
 https://vladimir7767.github.io/life-expectancy-calculator-asia/
+https://vladimir7767.github.io/training-volume-calculator/

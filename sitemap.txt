@@ -116,3 +116,4 @@ https://vladimir7767.github.io/life-expectancy-calculator-asia/
 https://vladimir7767.github.io/training-volume-calculator/
 https://vladimir7767.github.io/training-volume-calculator-en/
 https://vladimir7767.github.io/calculadora-volumen-entrenamiento/
+https://vladimir7767.github.io/training-volume-calculator-de/

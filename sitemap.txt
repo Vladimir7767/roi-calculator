@@ -149,3 +149,4 @@ https://vladimir7767.github.io/calculadora-migracion-ia-local/
 https://vladimir7767.github.io/universal-ki-migration-rechner-de/
 https://vladimir7767.github.io/cloud-api-to-local-llm-calculator-asia/
 https://vladimir7767.github.io/core-web-vitals-leak-calculator/
+https://vladimir7767.github.io/core-web-vitals-leak-calculator-en/

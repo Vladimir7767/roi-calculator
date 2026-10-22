@@ -151,3 +151,4 @@ https://vladimir7767.github.io/cloud-api-to-local-llm-calculator-asia/
 https://vladimir7767.github.io/core-web-vitals-leak-calculator/
 https://vladimir7767.github.io/core-web-vitals-leak-calculator-en/
 https://vladimir7767.github.io/calculadora-perdidas-velocidad-web/
+https://vladimir7767.github.io/universal-cwv-konversionsverlust-rechner-de/

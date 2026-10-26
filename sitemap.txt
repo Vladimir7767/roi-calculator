@@ -153,3 +153,4 @@ https://vladimir7767.github.io/core-web-vitals-leak-calculator-en/
 https://vladimir7767.github.io/calculadora-perdidas-velocidad-web/
 https://vladimir7767.github.io/universal-cwv-konversionsverlust-rechner-de/
 https://vladimir7767.github.io/core-web-vitals-leak-calculator-asia/
+https://vladimir7767.github.io/advanced-macronutrient-somatotype-calculator/

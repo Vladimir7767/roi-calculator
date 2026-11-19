@@ -185,3 +185,4 @@ https://vladimir7767.github.io/ai-watermark-cleaner-entropy-auditor-de/
 https://vladimir7767.github.io/ai-watermark-cleaner-entropy-auditor-asia/
 https://vladimir7767.github.io/geo-ai-citation-auditor-snippet-builder/
 https://vladimir7767.github.io/geo-ai-citation-auditor-snippet-builder-en/
+https://vladimir7767.github.io/geo-ai-citation-auditor-snippet-builder-es/

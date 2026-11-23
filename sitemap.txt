@@ -190,3 +190,4 @@ https://vladimir7767.github.io/geo-ai-citation-auditor-snippet-builder-de/
 https://vladimir7767.github.io/geo-ai-citation-auditor-snippet-builder-asia/
 https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator/
 https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-en/
+https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-es/

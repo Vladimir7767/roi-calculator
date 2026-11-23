@@ -192,3 +192,4 @@ https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator/
 https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-en/
 https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-es/
 https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-de/
+https://vladimir7767.github.io/ai-prompt-pii-scrubber-rehydrator-asia/
